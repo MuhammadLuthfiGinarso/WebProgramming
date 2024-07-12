@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-head>
+<head>
     <title>Edit Mata Kuliah</title>
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/styles.css') ?>">
 </head>
 <body>
     <h1>Edit Mata Kuliah</h1>

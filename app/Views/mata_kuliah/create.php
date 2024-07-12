@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Tambah Mata Kuliah</title>
+    <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/styles.css') ?>">
 </head>
 <body>
     <h1>Tambah Mata Kuliah</h1>
